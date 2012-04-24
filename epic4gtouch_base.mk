@@ -128,16 +128,16 @@ PRODUCT_PACKAGES += \
 	setup_fs
 
 # Live Wallpapers
-PRODUCT_PACKAGES += \
-	Galaxy4 \
-	HoloSpiralWallpaper \
-	LiveWallpapers \
-	LiveWallpapersPicker \
-	MagicSmokeWallpapers \
-	NoiseField \
-	PhaseBeam \
-	VisualizationWallpapers \
-	librs_jni
+# PRODUCT_PACKAGES += \
+	# Galaxy4 \
+	# HoloSpiralWallpaper \
+	# LiveWallpapers \
+	# LiveWallpapersPicker \
+	# MagicSmokeWallpapers \
+	# NoiseField \
+	# PhaseBeam \
+	# VisualizationWallpapers \
+	# librs_jni
 
 # These are the hardware-specific features
 PRODUCT_COPY_FILES += \
